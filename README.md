@@ -12,5 +12,5 @@ I'll be updating this section to track my progress through The Odin Project. Sta
 
 ## Projects
 
-### Project 1: Odin Recipes
-**SOON**
+### Project 1 (HTML Foundations):
+**[Odin Recipes](https://github.com/clonidine/odin-recipes)**
